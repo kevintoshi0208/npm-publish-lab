@@ -1,1 +1,1 @@
-export default variable = "Hello World";
+export default  "Hello World";
